@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(115, 209, 244);
+}
+
+h1 {
+    font-family: Vina Sans;
+}
+img{    
+    max-height: 40%;
+    height: auto;
+    width: auto;
+}
